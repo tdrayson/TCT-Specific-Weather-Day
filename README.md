@@ -1,4 +1,4 @@
-# tct-specific-weather-day
+# TCT Specific Weather Day
 Display weather data for specific day within next 7 days
 
 === TCT-specific-weather-day ===
